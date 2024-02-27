@@ -44,7 +44,7 @@ One of the key strengths of the Google Project Management Certificate is its emp
 
 Through immersive case studies, interactive simulations, and hands-on exercises, participants grapple with the complexities of modern project environments, developing critical thinking skills and problem-solving abilities along the way. Moreover, the program fosters a culture of continuous improvement, encouraging participants to stay abreast of emerging trends, technologies, and methodologies shaping the field of project management.
 
-_**Conclusion:** _
+**Conclusion:** 
 
 In conclusion, the Google Project Management Certificate represents a transformative opportunity for individuals seeking to excel in project management roles. By combining a rigorous curriculum, practical applications, and real-world insights, the certificate program equips participants with the tools and confidence needed to navigate today's dynamic business landscape successfully.
 
